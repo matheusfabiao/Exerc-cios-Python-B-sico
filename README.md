@@ -1,6 +1,6 @@
 # Exercícios de Python Básico
 
-Este repositório contém 120 exercícios de Python básico, desenvolvidos pelo professor Gustavo Guanabara do canal "Curso em Vídeo" no YouTube. Os exercícios abrangem uma variedade de tópicos, desde conceitos fundamentais como variáveis até estruturas mais avançadas como funções e modularização. Além disso, os exercícios incluem trabalhos com estruturas de dados, fluxos de controle e o uso de bibliotecas populares como math e pygame.
+Este repositório contém 120 exercícios de Python básico, desenvolvidos pelo professor Gustavo Guanabara do canal "Curso em Vídeo" no YouTube. Os exercícios abrangem uma variedade de tópicos, desde conceitos fundamentais como variáveis até estruturas mais avançadas como funções e modularização. Além disso, os exercícios incluem trabalhos com estruturas de dados, fluxos de controle e o uso de bibliotecas populares como math, date e pygame.
 
 ## Sobre os Exercícios
 
@@ -11,7 +11,7 @@ Os exercícios foram organizados em uma sequência lógica para facilitar o apre
 - Estruturas de repetição (for, while)
 - Listas, tuplas e dicionários
 - Funções e modularização
-- Bibliotecas Python (como math, pygame, etc.)
+- Bibliotecas Python (como math, date, pygame, etc.)
 
 Cada exercício é acompanhado por uma breve descrição do problema a ser resolvido e, quando necessário, instruções adicionais para orientar a resolução.
 
